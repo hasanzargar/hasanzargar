@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Hasan! 👋
 
-<!--
-**hasanzargar/hasanzargar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Developer focused on building scalable backends and clean architectures.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Task Management Engine** with pure Python & SOLID principles.
+- 🌱 I’m currently learning **Machine Learning** and **Software Design Patterns**.
+- ⚡ **My Core Stack:** Python, OOP, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanzargar&show_icons=true&theme=radical&hide_border=true" alt="Hasan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanzargar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
