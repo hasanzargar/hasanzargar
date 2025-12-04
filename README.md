@@ -1,10 +1,12 @@
 ### Hi there, I'm Hasan! 👋
 
-I'm a Python Developer focused on building scalable backends and clean architectures.
+I am a Python developer passionate about building scalable backends and writing clean, maintainable code.
 
-- 🔭 I’m currently working on a **Task Management Engine** with pure Python & SOLID principles.
-- 🌱 I’m currently learning **Machine Learning** and **Software Design Patterns**.
-- ⚡ **My Core Stack:** Python, OOP, Git.
+Right now, I'm deep into **Software Architecture** (SOLID principles) and starting my journey into the world of **Machine Learning**.
+
+- 🔭 **Working on:** A modular Task Management Engine.
+- 🌱 **Learning:** Machine Learning algorithms & Design Patterns.
+- ⚡ **Core Stack:** Python, Git, OOP.
 
 ---
 
